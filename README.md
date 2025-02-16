@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a skilled Java Developer with 2+ years of experience building and maintaining high-performance applications. Proficient in Spring, and CI/CD, I'm passionate about optimizing system performance and enhancing user experience.
+
 <!--
 **Latha232/Latha232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
