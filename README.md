@@ -52,6 +52,9 @@ Below are my technical skills that I have mastered:
 <img src="https://img.shields.io/badge/Maven-red" alt="Maven">,
 <img src="https://img.shields.io/badge/Agile/Scrum-blue" alt="Agile/Scrum">
 
+
+Thank you for visiting my portfolio!
+
 <!--
 **Latha232/Latha232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
