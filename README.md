@@ -13,7 +13,7 @@ Below are my technical skills that I have mastered:
 <img src="https://img.shields.io/badge/Java-orange" alt="Java">,
 <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript">,
 <img src="https://img.shields.io/badge/C++-lightgrey" alt="C++">,
-<img src="https://img.shields.io/badge/C-indigo" alt="C">
+<img src="https://img.shields.io/badge/C-indigo" alt="C">,
 <img src="https://img.shields.io/badge/Data%20Structures-lightgrey" alt="Data Structures">,
 <img src="https://img.shields.io/badge/HTML5-red" alt="HTML5">,
 <img src="https://img.shields.io/badge/CSS-blue" alt="CSS">,
