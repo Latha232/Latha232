@@ -25,11 +25,13 @@ Below are my technical skills that I have mastered:
 <img src="https://img.shields.io/badge/ReactJS-blue" alt="ReactJS">,
 <img src="https://img.shields.io/badge/GraphQL-purple" alt="GraphQL">,
 <img src="https://img.shields.io/badge/NG-RX-red" alt="NG-RX">,
-<img src="https://img.shields.io/badge/NodeJS-orange" alt="NodeJS">
+<img src="https://img.shields.io/badge/NodeJS-orange" alt="NodeJS">,
 <img src="https://img.shields.io/badge/ExpressJS-indigo" alt="ExpressJS">
 
 ### Web Technologies
 <img src="https://img.shields.io/badge/Spring%20Boot-green" alt="Spring Boot">,
+<img src="https://img.shields.io/badge/Spring%20Core-lightgreen" alt="Spring Core">,
+<img src="https://img.shields.io/badge/Spring%20JPA-indigo" alt="Spring JPA">,
 <img src="https://img.shields.io/badge/Node.js-green" alt="Node.js">,
 <img src="https://img.shields.io/badge/Spring%20MVC-green" alt="Spring MVC">,
 <img src="https://img.shields.io/badge/JDBC-lightgrey" alt="JDBC">,
