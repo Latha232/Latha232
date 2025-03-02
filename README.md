@@ -25,7 +25,8 @@ Below are my technical skills that I have mastered:
 <img src="https://img.shields.io/badge/ReactJS-blue" alt="ReactJS">,
 <img src="https://img.shields.io/badge/GraphQL-purple" alt="GraphQL">,
 <img src="https://img.shields.io/badge/NG-RX-red" alt="NG-RX">,
-<img src="https://img.shields.io/badge/JQuery-blue" alt="JQuery">
+<img src="https://img.shields.io/badge/NodeJS-orange" alt="NodeJS">
+<img src="https://img.shields.io/badge/ExpressJS-indigo" alt="ExpressJS">
 
 ### Web Technologies
 <img src="https://img.shields.io/badge/Spring%20Boot-green" alt="Spring Boot">,
