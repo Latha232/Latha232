@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a skilled Software Engineer with 2+ years of experience building and maintaining high-performance applications. Proficient in Spring, and CI/CD, I'm passionate about optimizing system performance and enhancing user experience.
+I'm a skilled Software Engineer with 4 years of experience building and maintaining high-performance applications. Proficient in Spring, and CI/CD, I'm passionate about optimizing system performance and enhancing user experience.
 
 - Live Demo: [MoneyDiet](https://moneydiet.vercel.app/)
 
